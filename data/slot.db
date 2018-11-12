@@ -1,0 +1,3 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"bookedFor":"sid","bookedBy":"ujjwal","slotTime":1,"slotDate":1542048713495,"createdAt":1542050787925,"updatedAt":1542050787925,"id":1,"_id":1}
+{"bookedFor":"sid","bookedBy":"rajat","slotTime":9,"slotDate":1542048703495,"createdAt":1542050805673,"updatedAt":1542050805673,"id":2,"_id":2}
